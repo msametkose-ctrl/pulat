@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+fastengine/target/
+checkpoints/*
+!checkpoints/pulat_best.pt
+checkpoints_*/
+*_out.txt
+.claude/
