@@ -1,8 +1,8 @@
 # Pulat
 
-Kendine karşı oynayarak öğrenen tavla yapay zekâsı. Ağa hiçbir strateji bilgisi verilmez: sadece oyunun kurallarını bilir, ham tahtaya bakar ve milyonlarca oyunu kendine karşı oynayarak (TD(λ), TD-Gammon yöntemi) öğrenir.
+**Türkçe** | [English](README.en.md)
 
-*A backgammon AI that learns purely from self-play (TD(λ), TD-Gammon style). No hand-crafted strategy; Turkish scoring: win = 1 point, gammon (mars) = 2 points, no doubling cube.*
+Kendine karşı oynayarak öğrenen tavla yapay zekâsı. Ağa hiçbir strateji bilgisi verilmez: sadece oyunun kurallarını bilir, ham tahtaya bakar ve milyonlarca oyunu kendine karşı oynayarak (TD(λ), TD-Gammon yöntemi) öğrenir.
 
 ## Özellikler
 
